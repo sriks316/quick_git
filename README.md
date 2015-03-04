@@ -1,5 +1,5 @@
 Quick Git
-=======================
+======================
 Makes the most common Git workflow really easy. Add, commit and push in one simple command.
 
 ### Install the script (link it to local bin folder):

@@ -134,6 +134,7 @@ class CommandLine
 
   def cmd_options
     options = {}
+    
     opt_parser = OptionParser.new do |opts|
       opts.banner = 'Usage: qg "commit message"'
 
